@@ -1,7 +1,7 @@
 # opinion_mining_with_syn_cons
 This repositry contains our code, configurations, and model for our work on "A Unified Span-Based Approach for Opinion Mining with Syntactic Constituents", which is published on NAACL-2021.
 The src directory contains our code and the exp-4.1-baseline contains our experiment for "Baseline+BERT" (data0, the first data of the five fold cross-validation).
-![model](./figures/model.pdf)
+[model](./figures/model.pdf)
 
 ## Environment
 Python3, Pytorch, Transformers 2.1.1 (for BERT)
