@@ -21,3 +21,4 @@ To test the performance of the trained model, you should run the following scrip
 sh predict.sh GPU\_ID
 ```
 We release the sample model of the "exp-4.1-baseline" on the Google Drive, [url](https://drive.google.com/file/d/17u8ofyaBThb66qYPZe-60A2lyEnWCNil/view?usp=sharing).
+Important, use the offline evaluation script to eval the output file.
