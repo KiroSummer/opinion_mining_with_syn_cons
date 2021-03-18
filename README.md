@@ -7,6 +7,10 @@ The src directory contains our code and the exp-4.1-baseline contains our experi
 ## Environment
 Python3, Pytorch, Transformers 2.1.1 (for BERT)
 
+### Data
+MPQA2.0 [url](http://mpqa.cs.pitt.edu/corpora/mpqa_corpus/mpqa_corpus_2_0/)
+PTB and OntoNotes can be download from LDC.
+
 ### Training
 Please reset and check the files in the train.sh and config.json when you want to run the code.
 
